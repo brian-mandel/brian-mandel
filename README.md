@@ -6,7 +6,7 @@ years sitting at the intersection of product, operations, and engineering —
 translating between business problems and technical teams, then building when 
 the right tool doesn't exist.
 
-Most recently: [OfferPath](https://offerpath.app) — an AI-powered job search CRM 
+Most recently: [OfferPath](https://offerpath.app): an AI-powered job search CRM 
 I built and shipped to production in under two weeks. Natural language logging, 
 kanban pipeline, Claude API under the hood.
 
